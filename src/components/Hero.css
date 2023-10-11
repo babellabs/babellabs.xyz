@@ -29,11 +29,10 @@
 }
 
 .earlyAccess button{
-    position: relative;
+  position: relative;
   margin: 5%;
   border: 0;
   width: 40%;
-  height: 6.5%;
   padding: 5px 10px;
   border-radius: 10px;
   background-color: #ee7f44;
@@ -45,4 +44,5 @@
 .earlyAccess{
     display: flex;
     justify-content: center;
+    
 }
