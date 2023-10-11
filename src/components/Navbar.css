@@ -1,0 +1,30 @@
+nav{
+    display: flex;
+    height: 10vh;
+    width: 100%;
+    padding-left: 15px;
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.logo-txt{
+    padding-top: 30px;
+    color: white;
+    font-size: 2.2rem;
+    padding-right: 20px;
+    font-family: monospace;
+    
+    
+}
+
+.logo-img img{
+    width: 100px;
+    
+}
+
+
+

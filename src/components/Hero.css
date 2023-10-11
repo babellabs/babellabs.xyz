@@ -1,0 +1,48 @@
+.Hero-Section{
+    height: 70vh;
+    display: grid;
+    place-items: center;
+    
+
+}
+
+.Hero-txt{
+    color: silver;
+    
+}
+
+.heroName{
+    color: silver;
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+    font-weight: 900;
+    
+}
+.heroDesc{
+    display: flex;
+    justify-content: center;
+    color: rgb(107, 105, 105);
+    opacity: 70%;
+    margin-top: -5%;
+}
+
+.earlyAccess button{
+    position: relative;
+  margin: 5%;
+  border: 0;
+  width: 40%;
+  height: 6.5%;
+  padding: 5px 10px;
+  border-radius: 10px;
+  background-color: #ee7f44;
+  color: white;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.earlyAccess{
+    display: flex;
+    justify-content: center;
+}
